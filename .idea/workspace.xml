@@ -19,14 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="creation homepage">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/emilie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html.twig" afterDir="false" />
+    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="ajout d une image et d un lien contact">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/PokerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PokerController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +168,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -189,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605530965500</updated>
-      <workItem from="1605530966650" duration="8766000" />
+      <workItem from="1605530966650" duration="11192000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1605531298264</created>
@@ -247,7 +242,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605537243824</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ajout d une image et d un lien contact">
+      <created>1605540426338</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605540426338</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajout d une image et d un lien contact">
+      <created>1605540726334</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605540726334</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +279,8 @@
     <MESSAGE value="ajout de die" />
     <MESSAGE value="ajout htacess" />
     <MESSAGE value="creation homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation homepage" />
+    <MESSAGE value="ajout d une image et d un lien contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout d une image et d un lien contact" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="419" key="#Composer" timestamp="1605531020571">
@@ -285,22 +295,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="727" y="341" key="#com.intellij.fileTypes.FileTypeChooser/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536644481" />
-    <state x="540" y="274" key="IDE.errors.dialog" timestamp="1605532869363">
+    <state x="540" y="274" key="IDE.errors.dialog" timestamp="1605541030720">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="540" y="274" key="IDE.errors.dialog/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605532869363" />
+    <state x="540" y="274" key="IDE.errors.dialog/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605541030720" />
     <state x="742" y="262" key="NewPhpClassDialog" timestamp="1605531335796">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="742" y="262" key="NewPhpClassDialog/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531335796" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1605541015464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605541015464" />
     <state width="498" height="452" key="SwitcherDM" timestamp="1605536802477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="452" key="SwitcherDM/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536802477" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605537249996">
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605540729998">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605537249996" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605540729998" />
     <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605532395184">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
