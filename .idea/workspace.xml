@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="premier commit">
-      <change afterPath="$PROJECT_DIR$/src/Controller/PokerController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/poker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="ajout htacess" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,6 +147,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -167,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605530965500</updated>
-      <workItem from="1605530966650" duration="1387000" />
+      <workItem from="1605530966650" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1605531298264</created>
@@ -176,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605531298264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout de la page age">
+      <created>1605532418183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532418183</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout de die">
+      <created>1605532561917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532561917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ajout htacess">
+      <created>1605532829387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532829387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,24 +213,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier commit" />
+    <MESSAGE value="ajout de la page age" />
+    <MESSAGE value="ajout de die" />
+    <MESSAGE value="ajout htacess" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout htacess" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="419" key="#Composer" timestamp="1605531020571">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="770" y="419" key="#Composer/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531020571" />
+    <state x="540" y="274" key="IDE.errors.dialog" timestamp="1605532869363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="274" key="IDE.errors.dialog/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605532869363" />
     <state x="742" y="262" key="NewPhpClassDialog" timestamp="1605531335796">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="742" y="262" key="NewPhpClassDialog/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531335796" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605531301072">
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605532835564">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531301072" />
-    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605531225960">
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605532835564" />
+    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605532395184">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531225960" />
+    <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605532395184" />
   </component>
 </project>
