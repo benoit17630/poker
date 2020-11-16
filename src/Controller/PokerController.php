@@ -11,7 +11,20 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class PokerController extends AbstractController
 {
+    //creation de la page bonjour
+    /**
+     * @Route("/bonjour", name="bonjour")                               // nouvelle route koala
+     * @param Request $request
+     * @return Response
+     */
+    public function recupere(Request $request){
+        $prenom =  $request->query->get('prenom');               // recupere prenom
+        $nom =  $request->query->get('nom');                   // recupere nom
 
+        // affiche Bonjour nom prenom dans une balises p d'html
+
+        return new Response( '<p> Bonjour ' . $prenom . ' ' . $nom . ' </p> ');
+    }
 //creation de la page age
     /**
      * @Route("/age" ,name="age_page")

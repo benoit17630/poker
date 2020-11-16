@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="ajout d une image et d un lien contact">
+    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="ajout nom prenom a la page age">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/PokerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PokerController.php" afterDir="false" />
     </list>
@@ -184,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605530965500</updated>
-      <workItem from="1605530966650" duration="11192000" />
+      <workItem from="1605530966650" duration="12319000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1605531298264</created>
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605540726334</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ajout nom prenom a la page age">
+      <created>1605542736953</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605542736953</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +287,8 @@
     <MESSAGE value="ajout htacess" />
     <MESSAGE value="creation homepage" />
     <MESSAGE value="ajout d une image et d un lien contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout d une image et d un lien contact" />
+    <MESSAGE value="ajout nom prenom a la page age" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout nom prenom a la page age" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="419" key="#Composer" timestamp="1605531020571">
@@ -311,10 +319,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="452" key="SwitcherDM/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536802477" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605540729998">
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605542741516">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605540729998" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605542741516" />
     <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605532395184">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
