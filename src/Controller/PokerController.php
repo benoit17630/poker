@@ -32,6 +32,7 @@ class PokerController extends AbstractController
     public function home():Response{
         return $this->render('homepage.html.twig');// je demande d afficher la page homepage
     }
+    //je creer une page contact
     /**
      * @route ("/contact",name="contact_page")
      */
