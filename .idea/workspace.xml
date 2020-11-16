@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="ajout htacess" />
+    <list default="true" id="a5231851-4b9e-46f0-9261-9fd5a9758bfc" name="Default Changelist" comment="creation homepage">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/emilie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/contact.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/PokerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PokerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +36,14 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -144,17 +160,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\symfony\poker\templates" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -164,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605530965500</updated>
-      <workItem from="1605530966650" duration="1928000" />
+      <workItem from="1605530966650" duration="8766000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit">
       <created>1605531298264</created>
@@ -194,7 +219,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605532829387</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajout htacess">
+      <created>1605533026712</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533026712</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ajout htacess">
+      <created>1605533034595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533034595</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ajout htacess">
+      <created>1605533633309</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533633309</updated>
+    </task>
+    <task id="LOCAL-00008" summary="creation homepage">
+      <created>1605537243824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605537243824</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,13 +269,22 @@
     <MESSAGE value="ajout de la page age" />
     <MESSAGE value="ajout de die" />
     <MESSAGE value="ajout htacess" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout htacess" />
+    <MESSAGE value="creation homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation homepage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="419" key="#Composer" timestamp="1605531020571">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="770" y="419" key="#Composer/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531020571" />
+    <state x="586" y="218" key="#Inspections" timestamp="1605538874975">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="586" y="218" key="#Inspections/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605538874975" />
+    <state x="727" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605536644481">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="727" y="341" key="#com.intellij.fileTypes.FileTypeChooser/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536644481" />
     <state x="540" y="274" key="IDE.errors.dialog" timestamp="1605532869363">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -231,10 +293,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="742" y="262" key="NewPhpClassDialog/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605531335796" />
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605532835564">
+    <state width="498" height="452" key="SwitcherDM" timestamp="1605536802477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605532835564" />
+    <state width="498" height="452" key="SwitcherDM/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605536802477" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1605537249996">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/3840.540.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605537249996" />
     <state x="777" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605532395184">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
